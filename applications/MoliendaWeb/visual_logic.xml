@@ -513,7 +513,7 @@
                                                   <field name="PROPERTY">display</field>
                                                   <field name="PARENT">TRUE</field>
                                                   <value name="VALUE">
-                                                    <shadow type="displayDropdown" id="9z%_gr]wiwVESS`3)cIo">
+                                                    <shadow type="displayDropdown" id="pNvD?8SeSK(eKad3f!Ci">
                                                       <field name="TEXT">block</field>
                                                     </shadow>
                                                     <block type="text" id="MiF5rS7zXB|noK%15|Lp">
@@ -531,7 +531,7 @@
                                                       <field name="PROPERTY">display</field>
                                                       <field name="PARENT">TRUE</field>
                                                       <value name="VALUE">
-                                                        <shadow type="displayDropdown" id="q_L_pdNT^IPk7u@xXh`G">
+                                                        <shadow type="displayDropdown" id="/gy]HDy/kAC{D;wG63ur">
                                                           <field name="TEXT">block</field>
                                                         </shadow>
                                                         <block type="text" id="?I(P4:wh(pvBB![Sv$TC">
@@ -549,7 +549,7 @@
                                                           <field name="PROPERTY">display</field>
                                                           <field name="PARENT">FALSE</field>
                                                           <value name="VALUE">
-                                                            <shadow type="displayDropdown" id="k.e/D.VVBwx!@{b{-Pmv">
+                                                            <shadow type="displayDropdown" id="et8:BecPQ`2cL%o@/+6m">
                                                               <field name="TEXT">block</field>
                                                             </shadow>
                                                             <block type="text" id="Z1QSp+v(_bwx.UpH==2L">
@@ -567,7 +567,7 @@
                                                               <field name="PROPERTY">display</field>
                                                               <field name="PARENT">FALSE</field>
                                                               <value name="VALUE">
-                                                                <shadow type="displayDropdown" id=")J2KA(3H;a_|?A4JWvOc">
+                                                                <shadow type="displayDropdown" id=";5d-_%u.MfYv)0rP+UcO">
                                                                   <field name="TEXT">block</field>
                                                                 </shadow>
                                                                 <block type="text" id="j5sqAWV7UPW+U;m^i1m%">
@@ -618,7 +618,7 @@
                                                   <field name="PROPERTY">display</field>
                                                   <field name="PARENT">TRUE</field>
                                                   <value name="VALUE">
-                                                    <shadow type="displayDropdown" id="*5C6})p[+H?:uVWvZV.v">
+                                                    <shadow type="displayDropdown" id="M_-*Dn[5;Drf09n3(X@7">
                                                       <field name="TEXT">block</field>
                                                     </shadow>
                                                     <block type="text" id="tK~7B+0r@m::G2Q_URt4">
@@ -636,7 +636,7 @@
                                                       <field name="PROPERTY">display</field>
                                                       <field name="PARENT">TRUE</field>
                                                       <value name="VALUE">
-                                                        <shadow type="displayDropdown" id="=~765EsiV2w~7(md{bQ/">
+                                                        <shadow type="displayDropdown" id="!RuIP(BJtV~]Vtbmcyhd">
                                                           <field name="TEXT">block</field>
                                                         </shadow>
                                                         <block type="text" id="((sa@-WKy.#32kD7,hWU">
@@ -654,7 +654,7 @@
                                                           <field name="PROPERTY">display</field>
                                                           <field name="PARENT">FALSE</field>
                                                           <value name="VALUE">
-                                                            <shadow type="displayDropdown" id="O76;_EKg;S;..A=yg%}O">
+                                                            <shadow type="displayDropdown" id="9^b=*#3iLk]BQ{4=+]||">
                                                               <field name="TEXT">block</field>
                                                             </shadow>
                                                             <block type="text" id="9IyBT93q/N52._{kpCbj">
@@ -672,7 +672,7 @@
                                                               <field name="PROPERTY">display</field>
                                                               <field name="PARENT">FALSE</field>
                                                               <value name="VALUE">
-                                                                <shadow type="displayDropdown" id="*;:/{F]gfj/1$@C0UnGQ">
+                                                                <shadow type="displayDropdown" id="n2BVh4-OBAGMYM|-T8`+">
                                                                   <field name="TEXT">block</field>
                                                                 </shadow>
                                                                 <block type="text" id="7ymtDblXex,]oaR}E@}p">
@@ -797,7 +797,7 @@
       </next>
     </block>
   </tab>
-  <tab name="procedures" type="CommonTab" active="true" scrollx="-638.6222456974634" scrolly="34.14635422447839" scale="0.8227024747918815">
+  <tab name="procedures" type="CommonTab" active="true" scrollx="-475.4940976341553" scrolly="76.52730687845343" scale="0.7462153966366272">
     <variables xmlns="https://developers.google.com/blockly/xml">
       <variable id="yki,}4M@uJvvwM1uROhK">paso</variable>
       <variable id="+n_]29w3AxU#lEwervR{">img</variable>
@@ -945,7 +945,7 @@
         </block>
       </statement>
     </block>
-    <block xmlns="https://developers.google.com/blockly/xml" type="eventHTMLElem" id="0hmhM0%m}Oej37?_]AA0" x="1330" y="150">
+    <block xmlns="https://developers.google.com/blockly/xml" type="eventHTMLElem" id="0hmhM0%m}Oej37?_]AA0" disabled="true" x="1330" y="150">
       <field name="EVENT">click</field>
       <field name="PARENT">TRUE</field>
       <value name="ID">
@@ -982,11 +982,11 @@
                 </block>
               </value>
               <statement name="DO0">
-                <block type="execScript" id=";`Jl=f49.WU/wCC^}^U," disabled="true">
+                <block type="execScript" id=";`Jl=f49.WU/wCC^}^U,">
                   <value name="TEXT">
                     <shadow type="textMultiline" id="q3z^+xvFB+a(6!wk.XZq">
                       <field name="HIGHLIGHT_MODE">javascript</field>
-                      <field name="TEXT" editor-height="2" editor-width="520">window.parent.postMessage({param1: 1, param2:19 },'*');</field>
+                      <field name="TEXT" editor-height="2" editor-width="520">window.top.postMessage({param1: 1, param2:19 },'*');</field>
                     </shadow>
                   </value>
                 </block>
@@ -1011,7 +1011,7 @@
                   <value name="TEXT">
                     <shadow type="textMultiline" id="vfD.T?GNXU-6q=UN}g`S">
                       <field name="HIGHLIGHT_MODE">javascript</field>
-                      <field name="TEXT" editor-height="11" editor-width="613.5939812500001">console.log("Prueba antes de enviar el mensaje.");&amp;#10;&amp;#10;    try {&amp;#10;        window.parent.postMessage({param1: 1, param2: 19 }, '*');&amp;#10;        console.log("Mensaje enviado con éxito.");&amp;#10;    } catch (error) {&amp;#10;        console.error("Error al enviar el mensaje:", error);&amp;#10;    }&amp;#10;    </field>
+                      <field name="TEXT" editor-height="11" editor-width="613.5939812500001">console.log("Prueba antes de enviar el mensaje.");&amp;#10;&amp;#10;    try {&amp;#10;        window.top.postMessage({param1: 1, param2: 19 }, '*');&amp;#10;        console.log("Mensaje enviado con éxito.");&amp;#10;    } catch (error) {&amp;#10;        console.error("Error al enviar el mensaje:", error);&amp;#10;    }&amp;#10;    </field>
                     </shadow>
                   </value>
                 </block>
@@ -1036,7 +1036,7 @@
                   <value name="TEXT">
                     <shadow type="textMultiline" id="ox,~z+rDQO#Zuv[nIXs(">
                       <field name="HIGHLIGHT_MODE">javascript</field>
-                      <field name="TEXT" editor-height="4" editor-width="520">window.parent.postMessage({param1: 1, param2:20 },'*');&amp;#10;postMessage({param1: 1, param2:20 },'*');</field>
+                      <field name="TEXT" editor-height="4" editor-width="520">window.top.postMessage({param1: 1, param2:20 },'*');&amp;#10;postMessage({param1: 1, param2:20 },'*');</field>
                     </shadow>
                   </value>
                 </block>
@@ -1061,7 +1061,7 @@
                   <value name="TEXT">
                     <shadow type="textMultiline" id="{?G$qYYOr^gw$,ds7%|?">
                       <field name="HIGHLIGHT_MODE">javascript</field>
-                      <field name="TEXT" editor-height="2" editor-width="520">window.parent.postMessage({param1: 1, param2:21 },'*');</field>
+                      <field name="TEXT" editor-height="2" editor-width="520">window.top.postMessage({param1: 1, param2:21 },'*');</field>
                     </shadow>
                   </value>
                 </block>
@@ -1086,7 +1086,7 @@
                   <value name="TEXT">
                     <shadow type="textMultiline" id=")c|$p=wnKLw5WH{mbhDk">
                       <field name="HIGHLIGHT_MODE">javascript</field>
-                      <field name="TEXT" editor-height="2" editor-width="520">window.parent.postMessage({param1: 1, param2:21 },'*');</field>
+                      <field name="TEXT" editor-height="2" editor-width="520">window.top.postMessage({param1: 1, param2:21 },'*');</field>
                     </shadow>
                   </value>
                 </block>
